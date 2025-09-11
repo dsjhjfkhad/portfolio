@@ -14,6 +14,11 @@ body {
     Typorgraphy              
 -----------------------------------------*/
 
+.wow_yujeong {
+  font-size: 60px;
+    letter-spacing: 2px;
+    margin-bottom: 0px;
+}
 h1,h2 {
   font-family: 'Playfair Display', serif;
   font-weight: 400;
